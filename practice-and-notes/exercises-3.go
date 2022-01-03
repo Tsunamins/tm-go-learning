@@ -74,7 +74,7 @@ func main(){
 		fallthrough
 
 	case (5 == 5):
-		fmt.Println("is also true if fallthrough")
+		fmt.Println("is a42lso true if fallthrough")
 	
 	default:
 		fmt.Println("default available otherwise")
